@@ -1,7 +1,7 @@
 ## 👋🏽 Hello, Beatriz here!
 
 
-Me chamo Beatriz Rodrigues, tenho 23 anos, Tecnólogo em ADS e atualmente estudo Front-End, <br> mas tenho interesse em aprender qualquer coisa que possa colaborar com meu aprendizado.
+Me chamo Beatriz Rodrigues, tenho 23 anos, Tecnólogo em ADS e atualmente estudo Front-End, <br> mas tenho interesse em aprender qualquer coisa que possa colaborar colaborar com o desenvolvimento da minha carreira.
 <br>
 
 ## <h3>🧠 Curiosidades</h3>
