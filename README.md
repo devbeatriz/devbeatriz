@@ -6,8 +6,8 @@ Me chamo Beatriz Rodrigues, tenho 23 anos, Tecnólogo em ADS e atualmente estudo
 
 ## <h3>🧠 Curiosidades</h3>
 
-- 📖 Estou focada em aprender JavaScript, documentando meu aprendizado [aqui](https://github.com/devbeatriz/javascript) e aprofundando meus conhecimentos em CSS. <br>
-- 🎯 Meu próximo passo é aprender Bootstrap e React. Também tenho curiosidade em conhecer SQL e PHP
+- 📖 Estou focada em aprender JavaScript, e aprofundando meus conhecimentos em CSS. <br>
+- 🎯 Meu próximo passo é aprender Bootstrap e React. Tenho curiosidade em conhecer SQL e PHP
 - 👩🏽‍🎨 Além de código me divirto com UI Design, você pode visualizar alguns dos meus projetos [aqui](https://www.behance.net/devbeatriz)
 - ❤️ Estou sempre aberta a sugestões e conversas! E caso possa te ajudar em algo, da um oi no [LinkedIn](https://www.linkedin.com/in/devbeatriz/)
 
