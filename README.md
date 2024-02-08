@@ -1,15 +1,11 @@
-## 👋🏽 Hello, Beatriz here!
+## Hello there, stranger
 
+I currently working as a NOC Analyst, often programming as a hobby, or not.
 
-Me chamo Beatriz Rodrigues, tenho 23 anos, Tecnólogo em ADS e atualmente estudo Front-End, <br> mas tenho interesse em aprender qualquer coisa que possa colaborar colaborar com o desenvolvimento da minha carreira.
-<br>
-
-## <h3>🧠 Curiosidades</h3>
-
-- 📖 Estou focada em aprender JavaScript, e aprofundando meus conhecimentos em CSS. <br>
-- 🎯 Meu próximo passo é aprender Bootstrap e React. Tenho curiosidade em conhecer SQL e PHP
-- 👩🏽‍🎨 Além de código me divirto com UI Design, você pode visualizar alguns dos meus projetos [aqui](https://www.behance.net/devbeatriz)
-- ❤️ Estou sempre aberta a sugestões e conversas! E caso possa te ajudar em algo, da um oi no [LinkedIn](https://www.linkedin.com/in/devbeatriz/)
+## Curiosities about me
+* **Interests:** Automation, Database, Data Science and Full-Stack Development.
+* Besides coding, UI design is one of my hobbies, and you can view some of my projects [here](https://www.behance.net/devbeatriz).
+* I'm always open to suggestions and conversations! And if I can help you with anything, just drop me a "hi" on [LinkedIn](https://www.linkedin.com/in/devbeatriz/).
 
 ## 
 <div>
