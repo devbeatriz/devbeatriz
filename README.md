@@ -1,6 +1,6 @@
 ## Hello there, stranger
 
-I am currently working as a NOC Analyst and often program as a hobby.
+I often program as a hobby.
 
 ## Curiosities about me
 * **Interests:** Python, Automation, Databases, and Development.
