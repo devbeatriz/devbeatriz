@@ -3,7 +3,7 @@
 I am currently working as a NOC Analyst and often program as a hobby.
 
 ## Curiosities about me
-* **Interests:** Automation, Database, Data Science and Full-Stack Development.
+* **Interests:** Python, Automation, Databases, and Development.
 * Besides coding, UI design is one of my hobbies, and you can view some of my projects [here](https://www.behance.net/devbeatriz).
 * I'm always open to suggestions and conversations! And if I can help you with anything, just drop me a "hi" on [LinkedIn](https://www.linkedin.com/in/devbeatriz/).
 
