@@ -1,6 +1,7 @@
 ## Hello there, stranger
 
-I often program as a hobby.
+I often program as a hobby. <br>
+🌱 I’m currently learning Linux and Python
 
 ## Curiosities about me
 * **Interests:** Python, Automation, Databases, and Development.
