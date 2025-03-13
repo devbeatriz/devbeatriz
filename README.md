@@ -7,4 +7,4 @@ I kinda treat **GitHub** as a lab, putting my projects and studies here. It's wh
 
 ---
 
-Feel free to check out my work and follow along with my journey!
+Feel free to check out my work or hmu on [LinkedIn](https://www.linkedin.com/in/devbeatriz/)!
