@@ -1,7 +1,7 @@
 # I'm Bea
 
 👨‍💻 I program as a hobby.  
-🌱 Right now, I'm learning **Linux** and **automation**.
+🌱 Right now, I'm focusing on **Linux**.
 
 I kinda treat **GitHub** as a lab, putting my projects and studies here. It's where I keep everything I'm testing and learning.
 
