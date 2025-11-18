@@ -1,10 +1,8 @@
 # I'm Bea
 
-👨‍💻 Programo como hobby.<br>
-🌱 No momento, estou focando em Linux.
-
-Trato o GitHub como um laboratório, onde coloco meus projetos e estudos. Aqui guardo tudo o que estou testando e aprendendo.
+🌱 Right now, my main focus is Linux. <br>
+I treat GitHub like my personal lab, where I host all my projects and studies. It's where I keep everything I'm currently testing and learning.
 
 ---
 
-Sinta-se à vontade para conferir meu trabalho ou me chamar no [LinkedIn](https://www.linkedin.com/in/devbeatriz/)!
+Feel free to check out my work or reach out to me. [LinkedIn](https://www.linkedin.com/in/devbeatriz/)!
