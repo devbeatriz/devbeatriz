@@ -1,7 +1,7 @@
 # I'm Bea
 
 🌱 Right now, my main focus is Linux. <br>
-I treat GitHub like my personal lab, where I host all my projects and studies. It's where I keep everything I'm currently testing and learning.
+My personal lab for projects and studies. I use this space to keep what I'm testing and learning.
 
 ---
 
