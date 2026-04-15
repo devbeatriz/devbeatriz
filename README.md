@@ -1,6 +1,6 @@
 # I'm Bea
 
-🌱 Right now, my main focus is Linux. <br>
+🌱 Right now, my main focus is Linux, along with automation using Bash and Python. <br>
 My personal lab for projects and studies. I use this space to keep what I'm testing and learning.
 
 ---
